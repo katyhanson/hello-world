@@ -1,2 +1,2 @@
 # hello-world
-Just another repository 
+Hello! I am at Starbucks, editing this file! 
